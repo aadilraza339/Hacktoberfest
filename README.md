@@ -128,7 +128,7 @@ Switch to the local master branch of our repository:
 
 ##### ` git checkout master `
 
-Now merge any changes that were made in the original repository’s master branch, that you will access through your local upstream/master branch, with your local master branch:
+Now merge any changes that were made in the original repository’s master branch, that you will access through your local upstream/master branch, with your local master branch :
 
 ##### ` git merge upstream/master `
 
